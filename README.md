@@ -4,5 +4,4 @@ This project was built with HTTML and CSS and deployed with AWS using S3 and Rou
 
 Link: http://fedeira.xyz/
 
-
-![Kinema](https://user-images.githubusercontent.com/93743323/200679106-52b8c8e3-2c3e-4175-b5aa-38836441d695.png)
+![Captura de pantalla 2023-12-05 122404](https://github.com/FedeIra/Project-staticAWS-Resume/assets/93743323/46ad59bc-6f96-49da-850d-38009fa5673f)
